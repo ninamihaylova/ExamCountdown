@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\ExamCountdown\ExamCountdown\bin\Debug\net8.0\ExamCountdown.exe
+C:\Users\ninag\RiderProjects\ExamCountdown\ExamCountdown\bin\Debug\net8.0\ExamCountdown.deps.json
+C:\Users\ninag\RiderProjects\ExamCountdown\ExamCountdown\bin\Debug\net8.0\ExamCountdown.runtimeconfig.json
+C:\Users\ninag\RiderProjects\ExamCountdown\ExamCountdown\bin\Debug\net8.0\ExamCountdown.dll
+C:\Users\ninag\RiderProjects\ExamCountdown\ExamCountdown\bin\Debug\net8.0\ExamCountdown.pdb
+C:\Users\ninag\RiderProjects\ExamCountdown\ExamCountdown\obj\Debug\net8.0\ExamCountdown.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\ExamCountdown\ExamCountdown\obj\Debug\net8.0\ExamCountdown.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\ExamCountdown\ExamCountdown\obj\Debug\net8.0\ExamCountdown.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\ExamCountdown\ExamCountdown\obj\Debug\net8.0\ExamCountdown.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\ExamCountdown\ExamCountdown\obj\Debug\net8.0\ExamCountdown.dll
+C:\Users\ninag\RiderProjects\ExamCountdown\ExamCountdown\obj\Debug\net8.0\refint\ExamCountdown.dll
+C:\Users\ninag\RiderProjects\ExamCountdown\ExamCountdown\obj\Debug\net8.0\ExamCountdown.pdb
+C:\Users\ninag\RiderProjects\ExamCountdown\ExamCountdown\obj\Debug\net8.0\ExamCountdown.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\ExamCountdown\ExamCountdown\obj\Debug\net8.0\ref\ExamCountdown.dll
